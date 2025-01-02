@@ -53,7 +53,9 @@ cd tt-patchbay-label-generator
 
 Below is an example of the generated PDF output:
 
-![Example Output](example_output.png)
+![Color](color.png)
+
+![Black & White](bw.png)
 
 ## Customization
 
